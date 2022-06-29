@@ -2,6 +2,8 @@
 
 <h3 align=center>Try at: https://88vss.github.io/github-profiler/</h3>
 
+App para mostrar informações de perfis do GitHub.
+
 <h2> Screenshots </h2>
 
 <p align=center>
@@ -9,9 +11,6 @@
   <img src="assets/githubprofiler2.png" width=800px />
   <img src="assets/githubprofiler3.png" width=800px />
 </p>
-
-App para mostrar informações de perfis do GitHub.
-
 
 ### Tecnologias usadas:
   - Typescript
