@@ -4,14 +4,6 @@
 
 SPA utilizando Vue para mostrar informações de perfis do GitHub através da API do github.
 
-<h2> Screenshots </h2>
-
-<p align=center>
-  <img src="https://github.com/88vss/github-profiler/blob/master/assets/githubprofiler1.jpg" width=800px />
-  <img src="https://github.com/88vss/github-profiler/blob/master/assets/githubprofiler2.jpg" width=800px />
-  <img src="https://github.com/88vss/github-profiler/blob/master/assets/githubprofiler3.jpg" width=800px />
-</p>
-
 ### Tecnologias usadas:
   - Typescript
   - VueJS (Data binding, conditional rendering)
@@ -26,3 +18,11 @@ SPA utilizando Vue para mostrar informações de perfis do GitHub através da AP
 
 ## Bonus features
 -  [x] User can toggle dark/light mode
+
+<h2> Screenshots </h2>
+
+<p align=center>
+  <img src="https://github.com/88vss/github-profiler/blob/master/assets/githubprofiler1.jpg" width=800px />
+  <img src="https://github.com/88vss/github-profiler/blob/master/assets/githubprofiler2.jpg" width=800px />
+  <img src="https://github.com/88vss/github-profiler/blob/master/assets/githubprofiler3.jpg" width=800px />
+</p>
