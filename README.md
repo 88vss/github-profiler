@@ -2,7 +2,7 @@
 
 <h3 align=center>Try at: https://88vss.github.io/github-profiler/</h3>
 
-App para mostrar informações de perfis do GitHub.
+SPA utilizando Vue para mostrar informações de perfis do GitHub através da API do github.
 
 <h2> Screenshots </h2>
 
