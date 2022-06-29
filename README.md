@@ -7,9 +7,9 @@ App para mostrar informações de perfis do GitHub.
 <h2> Screenshots </h2>
 
 <p align=center>
-  <img src="assets/githubprofiler1.png" width=800px />
-  <img src="assets/githubprofiler2.png" width=800px />
-  <img src="assets/githubprofiler3.png" width=800px />
+  <img src="https://github.com/88vss/github-profiler/blob/master/assets/githubprofiler1.jpg" width=800px />
+  <img src="https://github.com/88vss/github-profiler/blob/master/assets/githubprofiler2.jpg" width=800px />
+  <img src="https://github.com/88vss/github-profiler/blob/master/assets/githubprofiler3.jpg" width=800px />
 </p>
 
 ### Tecnologias usadas:
